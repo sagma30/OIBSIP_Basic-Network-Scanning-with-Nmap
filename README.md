@@ -17,3 +17,4 @@ This task is a part of the Oasis Infobyte Security Analyst Internship.
 4. Saved and documented the scan output for analysis and record-keeping.
 
 # Scan Commands Used
+<img width="1446" height="1028" alt="TASK1_OIBSIP_NMAP" src="https://github.com/user-attachments/assets/f8915ed6-0631-434f-83b1-a8133b915d0f" />
